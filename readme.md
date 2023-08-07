@@ -1,9 +1,9 @@
 **Tasks**
-- [ ] JavaScript Drum Kit
-- [ ] CSS Clock
-- [ ] CSS Variables
-- [ ] Array Cardio Day 1
-- [ ] Flex Panel Gallery
+- [X] JavaScript Drum Kit
+- [X] CSS Clock
+- [X] CSS Variables
+- [X] Array Cardio Day 1
+- [X] Flex Panel Gallery
 - [ ] Type Ahead
 - [ ] Array Cardio Day 2
 - [ ] Fun with HTML5 Canvas
@@ -12,7 +12,7 @@
 - [ ] Custom Video Player
 - [ ] Key Sequence Detection
 - [ ] Slide in on Scroll
-- [ ] JavaScript References VS Copying
+- [X] JavaScript References VS Copying
 - [ ] LocalStorage
 - [ ] Mouse Shadow
 - [ ] Sort Without Articles
